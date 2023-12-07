@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "10094F99-3F41-4EB9-8012-F92FB049B935"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C086FFC2-2394-4EFA-B579-01A3202F93FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testProject_rickAndMorty/Modules/CollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "pressButtonFavorite()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C086FFC2-2394-4EFA-B579-01A3202F93FB - 72b9f807dd9468f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "testProject_rickAndMorty.CollectionViewCell.pressButtonFavorite() -&gt; ()"
+                  moduleName = "testProject_rickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevgeny/Downloads/testProject_rickAndMorty%203/testProject_rickAndMorty/Modules/CollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "168"
+                  endingLineNumber = "168"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "C086FFC2-2394-4EFA-B579-01A3202F93FB - ae2d1218c91f3b4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in testProject_rickAndMorty.CollectionViewCell.pressButtonFavorite() -&gt; ()"
+                  moduleName = "testProject_rickAndMorty"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yevgeny/Downloads/testProject_rickAndMorty%203/testProject_rickAndMorty/Modules/CollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "169"
+                  endingLineNumber = "169"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
